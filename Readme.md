@@ -1,3 +1,5 @@
+# License plate localization and recognition in camera pictures using Optical Character Recognition in Matlab
+
 To Run Project :
 
 1.Open Matlab File licenseplate.m.
@@ -11,3 +13,6 @@ To Run Project :
 5.The Output will be displayed..
 
 For More Understanding Watch Project Demo.avi Video..
+
+## Interface :
+![](License plate localization and recognition in camera pictures)
