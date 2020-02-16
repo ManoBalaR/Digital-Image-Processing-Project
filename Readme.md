@@ -15,4 +15,4 @@ To Run Project :
 For More Understanding Watch Project Demo.avi Video..
 
 ## Interface :
-![](License plate localization and recognition in camera pictures)
+![](https://raw.githubusercontent.com/ManoBalaR/Digital-Image-Processing-Project/master/Screenshot.png)
